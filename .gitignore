@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+data/papers/*
+data/indexes/*
+data/sessions/*
+!data/papers/.gitkeep
+!data/indexes/.gitkeep
+!data/sessions/.gitkeep
+.DS_Store
+.vscode/
+.idea/
